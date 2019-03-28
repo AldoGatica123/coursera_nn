@@ -107,3 +107,4 @@ venv.bak/
 
 .idea/
 assignment_*.ipynb
+.ipynb_checkpoints/
